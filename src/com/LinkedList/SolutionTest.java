@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-
+import junit.framework.Assert;
 
 public class SolutionTest {
 	private static Solution s = new Solution();
